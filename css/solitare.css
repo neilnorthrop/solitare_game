@@ -1,0 +1,16 @@
+.square {
+	width: 80px;
+	height: 80px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	background-color: grey;
+	display:inline-block;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.blue {
+	background-color: blue;
+}
